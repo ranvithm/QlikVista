@@ -1,0 +1,15 @@
+{
+  "type": "mashup-template",
+  "name": "QlikVista",
+  "description": "Generate dynamic UI",
+  "version": "1.0.1",
+  "author": "Ranjithkumar M",
+  "homepage": "https://www.ranjithm.in/",
+  "keywords": "qlik-sense, visualization, mashup, mashup-template, mashup-ui",
+  "license": "MIT",
+  "repository": "https://github.com/ranvithm/QlikVista.git",
+  "preview": "logo.png",
+  "dependencies": {
+    "qlik-sense": ">=3.0.x"
+  }
+}
