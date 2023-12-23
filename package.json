@@ -1,0 +1,23 @@
+{
+    "name": "qlikvista",
+    "version": "1.0.2",
+    "description": "Easily replicate the layout of an existing Qlik Sense application and effortlessly provide visuals in a personalized mashup.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ranvithm/QlikVista.git",
+      "tags": "true"
+    },
+    "keywords": [
+      "Qlik",
+      "Qlik Sense",
+      "mashup",
+      "qlikvista",
+      "dynamic mashup",
+      "Qlik Sense template",
+      "Replicate layout",
+      "Copy layout"
+    ],
+    "author": "Ranjithkumar M",
+    "license": "MIT"
+  }
+  
